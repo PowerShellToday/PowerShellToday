@@ -1,5 +1,10 @@
-### Hi there 👋
+## Hi there 👋
 
+Welcome, 
+- 🌱 I’m currently learning Azure stuff, mostly using PowerShell
+- 📫 How to reach me: 
+   - [Blog](https://powershell.today)
+   - [Linkedin](https://www.linkedin.com/in/parhultman/)  
 <!--
 **PowerShellToday/PowerShellToday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
